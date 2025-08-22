@@ -12,7 +12,7 @@
 
 	<properties>
 		<main.basedir>${project.basedir}</main.basedir>
-		<swagger.version>2.2.7</swagger.version>
+		<swagger.version>2.2.35</swagger.version>
 		<jena.version>3.6.0</jena.version>
 		<jackson.version>2.14.1</jackson.version>
 		<spring.version>5.2.8.RELEASE</spring.version>
